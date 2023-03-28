@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\t_lab.5\t_lab.5\obj\Debug\netcoreapp3.1\t_lab.5.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\t_lab.5\t_lab.5\obj\Debug\netcoreapp3.1\t_lab.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\t_lab.5\t_lab.5\obj\Debug\netcoreapp3.1\t_lab.5.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\t_lab.5\t_lab.5\obj\Debug\netcoreapp3.1\t_lab.5.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\t_lab.5\t_lab.5\obj\Debug\netcoreapp3.1\t_lab.5.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\t_lab.5\t_lab.5\bin\Debug\netcoreapp3.1\t_lab.5.exe
+C:\Users\Lenovo\source\repos\t_lab.5\t_lab.5\bin\Debug\netcoreapp3.1\t_lab.5.deps.json
+C:\Users\Lenovo\source\repos\t_lab.5\t_lab.5\bin\Debug\netcoreapp3.1\t_lab.5.runtimeconfig.json
+C:\Users\Lenovo\source\repos\t_lab.5\t_lab.5\bin\Debug\netcoreapp3.1\t_lab.5.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\t_lab.5\t_lab.5\bin\Debug\netcoreapp3.1\t_lab.5.dll
+C:\Users\Lenovo\source\repos\t_lab.5\t_lab.5\bin\Debug\netcoreapp3.1\t_lab.5.pdb
+C:\Users\Lenovo\source\repos\t_lab.5\t_lab.5\obj\Debug\netcoreapp3.1\t_lab.5.dll
+C:\Users\Lenovo\source\repos\t_lab.5\t_lab.5\obj\Debug\netcoreapp3.1\t_lab.5.pdb
+C:\Users\Lenovo\source\repos\t_lab.5\t_lab.5\obj\Debug\netcoreapp3.1\t_lab.5.genruntimeconfig.cache
